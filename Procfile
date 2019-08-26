@@ -1,1 +1,1 @@
-worker: python geo.py
+worker: python dacha.py
