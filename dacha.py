@@ -12,7 +12,7 @@ DACHA ={
 
 USERS={1: 1}
 poset=[]
-bot=telebot.TeleBot('969319994:AAETSx5cNFDCwJy7Rz7ef4R5Ip137da2zTk')
+bot=telebot.TeleBot('659414060:AAEWNZpJCVULIOoAdEP7oz8ZGoKJFfmW670')
 
 markup_menu=types.ReplyKeyboardMarkup(resize_keyboard=True,row_width=1,one_time_keyboard=True )
 btn_address=types.KeyboardButton('Узнать адрес дачи',request_location=True)
